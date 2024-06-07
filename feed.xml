@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Assolutamente Inutile</title>
-    <link href="https://assolutamenteinutile.it/feed.xml" rel="self" />
-    <link href="https://assolutamenteinutile.it" />
+    <link href="https://dapper-malabi-a2c42f.netlify.app/feed.xml" rel="self" />
+    <link href="https://dapper-malabi-a2c42f.netlify.app" />
     <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Luca D&#x27;Amico</name>
     </author>
-    <id>https://assolutamenteinutile.it</id>
+    <id>https://dapper-malabi-a2c42f.netlify.app</id>
 
 </feed>
