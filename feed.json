@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Assolutamente Inutile",
+    "description": "",
+    "home_page_url": "https://assolutamenteinutile.it",
+    "feed_url": "https://assolutamenteinutile.it/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Luca D&#x27;Amico"
+    },
+    "items": [
+    ]
+}
