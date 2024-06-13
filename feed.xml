@@ -3,7 +3,7 @@
     <title>AI ... Assolutamente Inutile</title>
     <link href="https://assolutamenteinutile.netlify.app/feed.xml" rel="self" />
     <link href="https://assolutamenteinutile.netlify.app" />
-    <updated>2024-06-13T14:59:51+02:00</updated>
+    <updated>2024-06-13T21:33:00+02:00</updated>
     <author>
         <name>menteora</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://assolutamenteinutile.netlify.app/da.html</id>
             <category term="ChatGpt"/>
 
-        <updated>2024-06-13T14:33:01+02:00</updated>
+        <updated>2024-06-13T21:33:00+02:00</updated>
             <summary>
                 <![CDATA[
                     Quasi sono le potenzialità di Dream Machine? Dream Machine di LumaLabs sembra aver guadagnato posto come competitor di SORA, la tecnologia sviluppata da OpenAi per realizzare video partendo dal testo e che per ora nessuno ha potuto sperimentare… bah… In compenso Dream Machine si può&hellip;
@@ -44,7 +44,7 @@
         <id>https://assolutamenteinutile.netlify.app/gestione-dinamica-dei-dati-con-google-sheets-e-apps-script.html</id>
             <category term="Google Apps Script"/>
 
-        <updated>2024-06-12T16:17:41+02:00</updated>
+        <updated>2024-06-12T21:17:00+02:00</updated>
             <summary>
                 <![CDATA[
                     In questo blog post, esploreremo come creare un ORM (Object-Relational Mapping) dinamico per Google Sheets utilizzando Google Apps Script, permettendo di gestire i dati di un foglio di calcolo con operazioni simili a quelle di un database. La classe DynamicSheetORM permette di interagire con Google&hellip;
@@ -115,7 +115,7 @@
         </content>
     </entry>
     <entry>
-        <title>Esperimento inutile... da foto ad Avatar con ChatGpt</title>
+        <title>Esperimento inutile... da Selfie ad Avatar con ChatGpt</title>
         <author>
             <name>menteora</name>
         </author>
@@ -123,7 +123,7 @@
         <id>https://assolutamenteinutile.netlify.app/esperimento-inutile-da-foto-da-avatar-con-chatgpt.html</id>
             <category term="ChatGpt"/>
 
-        <updated>2024-06-11T14:43:00+02:00</updated>
+        <updated>2024-06-11T21:43:00+02:00</updated>
             <summary>
                 <![CDATA[
                     L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione? Da qui, allego la foto su Chatgpt e faccio crea un avatar Lego. Da qui possono partire varie degenerazioni,&hellip;
