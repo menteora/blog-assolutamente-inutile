@@ -27,7 +27,7 @@
         <content type="html">
             <![CDATA[
                 <h2 id="quasi-sono-le-potenzialità-di-dream-machine">Quasi sono le potenzialità di Dream Machine?</h2>
-<p>Dream Machine di LumaLabs sembra aver guadagnato posto come competitor di SORA, la tecnologia sviluppata da OpenAi per realizzare video partendo dal testo e che per ora nessuno ha potuto sperimentare… bah…</p><figure class="post__image"><img src="./media/files/Lego_ME_pc.jpeg" alt="Immagine"  data-is-external-image="true"></figure><p>In compenso Dream Machine si può già testare e i server stanno già chiedendo aiuto, perché sovraccarichi di Nerdacci che fanno dei test, come me ovviamente… fiero di adempiere la mia mission nello scovare cose assolutamente inutili.</p><p>Si possono passare delle immagini e chiedere testualmente di realizzare il video, in questo caso ho passato la foto del mio avatar e gli ho detto di rappresentare questo: <em>“si accorge di essere assolutamente inutile”</em></p><video loading="lazy" width="1024" height="1024" controls>
+<p>Dream Machine di LumaLabs sembra aver guadagnato posto come competitor di SORA, la tecnologia sviluppata da OpenAi per realizzare video partendo dal testo e che per ora nessuno ha potuto sperimentare… bah…</p><figure class="post__image"><img src="./media/files/Lego_ME_pc.jpeg" alt="Immagine"  data-is-external-image="true"></figure><p>In compenso Dream Machine si può già testare e i server stanno già chiedendo aiuto, perché sovraccarichi di Nerdacci che fanno dei test, come me ovviamente… fiero di adempiere la mia mission nello scovare cose assolutamente inutili.</p><p>Si possono passare delle immagini e chiedere testualmente di realizzare il video, in questo caso ho passato la foto del mio avatar e gli ho detto di rappresentare questo: <em>“si accorge di essere assolutamente inutile”</em></p><video loading="lazy" width="806" height="806" controls>
   <source src="./media/files/assolutamente_inutile_avatar.mp4" type="video/mp4">
 </video>
 
@@ -40,19 +40,19 @@
         <author>
             <name>menteora</name>
         </author>
-        <link href="https://assolutamenteinutile.netlify.app/esperimento-inutile-da-foto-da-avatar-con-chatgpt.html"/>
-        <id>https://assolutamenteinutile.netlify.app/esperimento-inutile-da-foto-da-avatar-con-chatgpt.html</id>
+        <link href="https://assolutamenteinutile.netlify.app/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html"/>
+        <id>https://assolutamenteinutile.netlify.app/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</id>
             <category term="ChatGpt"/>
 
         <updated>2024-06-11T21:43:00+02:00</updated>
             <summary>
                 <![CDATA[
-                    L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione? Da qui, allego la foto su Chatgpt e faccio crea un avatar Lego. Da qui le degenerazioni possono moltiplicarsi,&hellip;
+                    L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione? Da qui, allego la foto su Chatgpt e scrivo: “crea un avatar Lego”. Da qui le degenerazioni possono moltiplicarsi,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione?</p><p>Da qui, allego la foto su Chatgpt e faccio crea un avatar Lego.</p><figure class="post__image"><img src="./media/files/Lego_ME.jpeg" alt="Immagine"  data-is-external-image="true"></figure><p>Da qui le degenerazioni possono moltiplicarsi, per esempio gli posso passare l’immagine del avatar e rappresentarlo mentre fa il leone da tastiera.</p><figure class="post__image"><img loading="lazy" src="./media/files/Lego_ME_pc.jpeg" alt="Immagine"  data-is-external-image="true"></figure><h2 id="disclaimer-che-rende-questo-test-inutile-per-te">DISCLAIMER CHE RENDE QUESTO TEST INUTILE PER TE</h2>
+                <p>L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione?</p><p>Da qui, allego la foto su Chatgpt e scrivo: <em>“crea un avatar Lego”</em>.</p><figure class="post__image"><img src="./media/files/Lego_ME.jpeg" alt="Immagine"  data-is-external-image="true"></figure><p>Da qui le degenerazioni possono moltiplicarsi, per esempio gli posso passare l’immagine del avatar e rappresentarlo mentre fa il leone da tastiera.</p><figure class="post__image"><img loading="lazy" src="./media/files/Lego_ME_pc.jpeg" alt="Immagine"  data-is-external-image="true"></figure><h2 id="disclaimer-che-rende-questo-test-inutile-per-te">DISCLAIMER CHE RENDE QUESTO TEST INUTILE PER TE</h2>
 <p>Ad oggi la creazione di immagini è disponibile solo tramite la versione <em>Plus</em> di ChatGpt… costo assolutamente inutile da sostenere da quando OpenAi ha pubblicato la versione 4o.</p><p>In compenso potete utilizzare Bing Image Creator gratuitamente: <a href="https://www.bing.com/images/create">https://www.bing.com/images/create</a></p>
             ]]>
         </content>
