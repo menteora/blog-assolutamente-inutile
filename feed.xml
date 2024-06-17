@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AI ... Assolutamente Inutile</title>
-    <link href="https://assolutamenteinutile.netlify.app/feed.xml" rel="self" />
-    <link href="https://assolutamenteinutile.netlify.app" />
+    <link href="https://www.assolutamenteinutile.it/feed.xml" rel="self" />
+    <link href="https://www.assolutamenteinutile.it" />
     <updated>2024-06-13T21:33:00+02:00</updated>
     <author>
         <name>menteora</name>
     </author>
-    <id>https://assolutamenteinutile.netlify.app</id>
+    <id>https://www.assolutamenteinutile.it</id>
 
     <entry>
         <title>Da ChatGpt a Dream Machine è un attimo... perdere tempo</title>
         <author>
             <name>menteora</name>
         </author>
-        <link href="https://assolutamenteinutile.netlify.app/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html"/>
-        <id>https://assolutamenteinutile.netlify.app/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</id>
+        <link href="https://www.assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html"/>
+        <id>https://www.assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</id>
             <category term="ChatGpt"/>
 
         <updated>2024-06-13T21:33:00+02:00</updated>
@@ -40,8 +40,8 @@
         <author>
             <name>menteora</name>
         </author>
-        <link href="https://assolutamenteinutile.netlify.app/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html"/>
-        <id>https://assolutamenteinutile.netlify.app/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</id>
+        <link href="https://www.assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html"/>
+        <id>https://www.assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</id>
             <category term="ChatGpt"/>
 
         <updated>2024-06-11T21:43:00+02:00</updated>
