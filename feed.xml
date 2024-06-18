@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>AI ... Assolutamente Inutile</title>
-    <link href="https://www.assolutamenteinutile.it/feed.xml" rel="self" />
-    <link href="https://www.assolutamenteinutile.it" />
+    <link href="https://assolutamenteinutile.it/feed.xml" rel="self" />
+    <link href="https://assolutamenteinutile.it" />
     <updated>2024-06-18T18:23:28+02:00</updated>
     <author>
         <name>menteora</name>
     </author>
-    <id>https://www.assolutamenteinutile.it</id>
+    <id>https://assolutamenteinutile.it</id>
 
     <entry>
         <title>Da ChatGpt a Dream Machine è un attimo... perdere tempo</title>
         <author>
             <name>menteora</name>
         </author>
-        <link href="https://www.assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html"/>
-        <id>https://www.assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</id>
+        <link href="https://assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html"/>
+        <id>https://assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</id>
             <category term="ChatGpt"/>
 
         <updated>2024-06-13T21:33:00+02:00</updated>
@@ -40,21 +40,21 @@
         <author>
             <name>menteora</name>
         </author>
-        <link href="https://www.assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html"/>
-        <id>https://www.assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</id>
-        <media:content url="https://www.assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" medium="image" />
+        <link href="https://assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html"/>
+        <id>https://assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</id>
+        <media:content url="https://assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" medium="image" />
             <category term="ChatGpt"/>
 
         <updated>2024-06-11T21:43:00+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" alt="" />
+                        <img src="https://assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" alt="" />
                     L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione? Da qui, allego la foto su Chatgpt e scrivo: “crea un avatar Lego, mantieni la versione Lego classica” Da&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp" class="type:primaryImage" alt="" /></p>
                 <p>L’idea è questa… ma se volessi crearmi un avatar che sia abbastanza simile al mio faccione e che possa usare indiscriminatamente senza mettere il mio faccione?</p><p>Da qui, allego la foto su Chatgpt e scrivo: <em>“crea un avatar Lego, mantieni la versione Lego classica”</em></p><figure class="post__image"><img src="./media/files/Lego_ME.jpeg" alt="Immagine"  data-is-external-image="true"></figure><p>Da qui le degenerazioni possono moltiplicarsi, per esempio gli posso passare l’immagine del avatar e rappresentarlo mentre fa il leone da tastiera.</p><figure class="post__image"><img loading="lazy" src="./media/files/Lego_ME_pc.jpeg" alt="Immagine"  data-is-external-image="true"></figure><h2 id="con-i-puffi-non-funziona">Con i puffi non funziona</h2>
 <p>Se invece ci si prova con i puffi non permette di creare un immagine, per restrizioni sul copyright.</p><p><code>I&#39;m unable to create an image of a Smurf due to content policy restrictions. If you have another character or theme in mind that you&#39;d like to see illustrated, feel free to let me know!</code></p><h2 id="disclaimer-che-rende-questo-test-inutile-per-te">DISCLAIMER CHE RENDE QUESTO TEST INUTILE PER TE</h2>
 <p>Ad oggi la creazione di immagini è disponibile solo tramite la versione <em>Plus</em> di ChatGpt… costo assolutamente inutile da sostenere da quando OpenAi ha pubblicato la versione 4o.</p><p>In compenso potete utilizzare Bing Image Creator gratuitamente: <a href="https://www.bing.com/images/create">https://www.bing.com/images/create</a></p>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://www.assolutamenteinutile.it/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://assolutamenteinutile.it/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://www.assolutamenteinutile.it/</loc>
+<loc>https://assolutamenteinutile.it/</loc>
 </url>
 <url>
-<loc>https://www.assolutamenteinutile.it/cookie-policy.html</loc>
+<loc>https://assolutamenteinutile.it/cookie-policy.html</loc>
 <lastmod>2024-06-18T18:56:02+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</loc>
+<loc>https://assolutamenteinutile.it/da-chatgpt-a-dream-machine-e-un-attimo-perdere-tempo.html</loc>
 <lastmod>2024-06-18T18:23:28+02:00</lastmod>
 </url>
 <url>
-<loc>https://www.assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</loc>
+<loc>https://assolutamenteinutile.it/esperimento-inutile-da-selfie-ad-avatar-con-chatgpt.html</loc>
 <lastmod>2024-06-18T18:23:13+02:00</lastmod>
 <image:image>
-<image:loc>https://www.assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp</image:loc>
+<image:loc>https://assolutamenteinutile.it/media/posts/4/Lego-ME-selfie.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
