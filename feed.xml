@@ -3,7 +3,7 @@
     <title>AI ... Assolutamente Inutile</title>
     <link href="https://assolutamenteinutile.it/feed.xml" rel="self" />
     <link href="https://assolutamenteinutile.it" />
-    <updated>2024-06-26T21:30:33+02:00</updated>
+    <updated>2024-07-01T10:11:37+02:00</updated>
     <author>
         <name>menteora</name>
     </author>
@@ -147,8 +147,10 @@ reactive_strategy vs aggressive_strategy: Final Scores = (99, 104)
 </ul>
 <h2 id="26-giugno-2024-alla-commit-il-sito-si-sbrindella-malamente">26 giugno 2024: Alla commit il sito si sbrindella malamente</h2>
 <p>Alla commit Github cancella il dominio personalizzato e ripristina la pagina (github-pages) con l’url predefinito iniziale.
-Bisogna creare un file nella <em>root directory</em> di nome <em>CNAME</em> e dentro mettere il dominio, nel mio caso <em>assolutamenteinutile.it</em></p><ul>
-<li>Fonte: <a href="https://github.com/tschaub/gh-pages/issues/213">https://github.com/tschaub/gh-pages/issues/213</a></li>
+Bisogna creare un file nella <em>root directory</em> di nome <em>CNAME</em> e dentro mettere il dominio, nel mio caso <em><a href="https://assolutamenteinutile.it">https://assolutamenteinutile.it</a></em></p><p>Mettere il prefisso https permette al sito di essere raggiugibile anche via http, facendo il redirect su https.</p><h3 id="fonti">Fonti</h3>
+<ul>
+<li>CNAME: <a href="https://github.com/tschaub/gh-pages/issues/213">https://github.com/tschaub/gh-pages/issues/213</a></li>
+<li>Redirect Http ad Https: <a href="https://github.com/isaacs/github/issues/408#issuecomment-117991066">https://github.com/isaacs/github/issues/408#issuecomment-117991066</a></li>
 </ul>
 
             ]]>
