@@ -3,7 +3,7 @@
     <title>AI ... Assolutamente Inutile</title>
     <link href="https://assolutamenteinutile.it/feed.xml" rel="self" />
     <link href="https://assolutamenteinutile.it" />
-    <updated>2024-07-01T18:04:56+02:00</updated>
+    <updated>2024-07-02T09:34:50+02:00</updated>
     <author>
         <name>menteora</name>
     </author>
@@ -17,20 +17,22 @@
         <link href="https://assolutamenteinutile.it/e-davvero-inutile-essere-cooperativi-il-dilemma-del-prigioniero-risponde-forse.html"/>
         <id>https://assolutamenteinutile.it/e-davvero-inutile-essere-cooperativi-il-dilemma-del-prigioniero-risponde-forse.html</id>
         <media:content url="https://assolutamenteinutile.it/media/posts/7/Dilemma-del-prigioniero.webp" medium="image" />
+            <category term="Cooperazione"/>
             <category term="Coaching"/>
+            <category term="Assertività"/>
 
         <updated>2024-06-26T21:09:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://assolutamenteinutile.it/media/posts/7/Dilemma-del-prigioniero.webp" alt="" />
-                    Può un semplice gioco matematico svelare la complessità delle dinamiche umane e farci arrivare alla conclusione che la cooperazione non sia del tutto assolutamente inutile? Bah… Partiamo dal principio in modo da avere basi solide a questo discorso totalmente inutile. A proposito, ma sei sicuro&hellip;
+                    Può un semplice gioco matematico svelare la complessità delle dinamiche umane e farci arrivare alla conclusione che la cooperazione non sia del tutto assolutamente inutile? Bah… Partiamo dal principio in modo da avere basi solide a questo discorso totalmente inutile. A proposito, sei sicuro che&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://assolutamenteinutile.it/media/posts/7/Dilemma-del-prigioniero.webp" class="type:primaryImage" alt="" /></p>
                 <p>Può un semplice gioco matematico svelare la complessità delle dinamiche umane e farci arrivare alla conclusione che la cooperazione non sia del tutto assolutamente inutile?</p><p>Bah…</p><h1 id="spiegone-inutilone">Spiegone inutilone</h1>
-<p>Partiamo dal principio in modo da avere basi solide a questo discorso totalmente inutile.</p><p><em>A proposito, ma sei sicuro che non sia più istruttivo guardare una parete bianca?
+<p>Partiamo dal principio in modo da avere basi solide a questo discorso totalmente inutile.</p><p><em>A proposito, sei sicuro che non sia più istruttivo guardare una parete bianca?
 Vabbé… non insisto…</em></p><p>Il “Dilemma del Prigioniero” è un gioco teorico in cui due giocatori devono decidere se cooperare o tradire l’altro. Le regole sono semplici. Se entrambi i giocatori cooperano, ricevono una ricompensa moderata. Se uno tradisce mentre l’altro coopera, il traditore ottiene il massimo beneficio mentre l’altro non ottiene nulla. E se entrambi tradiscono, entrambi ricevono una ricompensa minore. La tentazione di tradire è forte, ma se entrambi cedono a essa, il risultato è peggiorativo per tutti.</p><table>
 <thead>
 <tr>
@@ -55,10 +57,10 @@ Vabbé… non insisto…</em></p><p>Il “Dilemma del Prigioniero” è un gioco
 <td>Tradisce (ricompensa: 1 punti)</td>
 </tr>
 </tbody></table>
-<p>Da qui parte l’esperimento di un’altra persona che aveva tanto tempo libero, il professor Robert Axelrod negli anni ‘80, che invitò esperti di teoria dei giochi a progettare algoritmi che competessero nel Dilemma del Prigioniero ripetuto. </p><h1 id="se-hai-cercato-questo-paragrafo-è-perché-volevi-saltare-lo-spiegone-ma-non-so-se-ci-capirai-qualcosa-da-adesso-in-poi">Se hai cercato questo paragrafo è perché volevi saltare lo spiegone… ma non so se ci capirai qualcosa da adesso in poi</h1>
-<p>Sorprendentemente, la strategia più semplice, chiamata “Tit for Tat” (Do ut Des, occhio per occhio), che inizia cooperando e poi replica semplicemente l’azione dell’avversario nel turno precedente, ha dominato il torneo. </p><p>Tit for Tat spiega dimostrato che essere “gentili”, “indulgenti” e “chiari” anche nel negare la collaborazione può condurre al successo in un ambiente competitivo, rivelando un’eco profonda nelle strategie di cooperazione osservate in natura… che sono guidate dall’instinto di sopravvivenza in primo luogo, non dal “volemose bene”.</p><h2 id="la-prima-conclusione-inutile">La prima conclusione inutile</h2>
+<p>Da qui parte l’esperimento di un’altra persona che aveva tanto tempo libero, il professor Robert Axelrod negli anni ‘80, che invitò esperti di teoria dei giochi a progettare algoritmi che competessero nel Dilemma del Prigioniero ripetuto. </p><h2 id="la-prima-conclusione-inutile">La prima conclusione inutile</h2>
+<p>Sorprendentemente, la strategia più semplice, chiamata “Tit for Tat” (Do ut Des, occhio per occhio), che inizia cooperando e poi replica semplicemente l’azione dell’avversario nel turno precedente, ha dominato il torneo. </p><p>Tit for Tat ha dimostrato che essere buonisti non è vantaggioso in un ambiente non cooperativo, tradire fa perdere tutti, portare rancore non è una strategia vincente e l’assertività vince anche in matematica!</p><h3 id="alcuni-esempi">Alcuni esempi</h3>
 <ul>
-<li><strong>il buonismo in un ambiente non cooperativo perde</strong>: perché da spazio all’avversario (se si fosse cooperato non sarebbe un avversario) di tradire mentre noi continuiamo inutilmente a cooperare con… nessuno</li>
+<li><strong>il buonismo in un ambiente non cooperativo perde</strong>: perché da spazio all’avversario di tradire mentre noi continuiamo inutilmente a cooperare con… nessuno</li>
 </ul>
 <pre><code class="language-bat">cooperative_strategy vs aggressive_strategy:
 Turn 1: cooperative_strategy = C, aggressive_strategy = D, Scores = (0, 5)
@@ -75,7 +77,7 @@ Turn 10: cooperative_strategy = C, aggressive_strategy = D, Scores = (0, 50)
 cooperative_strategy vs aggressive_strategy: Final Scores = (0, 500)
 </code></pre>
 <ul>
-<li><strong>tradire ad oltranza</strong> fa perdere entrambe, si guadagnano pochi punti… è una strategia inutile al pari del buonismo</li>
+<li><strong>tradire ad oltranza o essere continuamente diffidenti</strong> porta alla perdita per entrambi, guadagnando pochi punti. È una strategia inutile al pari del buonismo e dimostra che anche il rancore non paga: ricordare torti passati non fa altro che inasprire i rapporti.</li>
 </ul>
 <pre><code class="language-bat">aggressive_strategy vs aggressive_strategy:
 Turn 1: aggressive_strategy = D, aggressive_strategy = D, Scores = (1, 1)
@@ -92,7 +94,7 @@ Turn 10: aggressive_strategy = D, aggressive_strategy = D, Scores = (10, 10)
 aggressive_strategy vs aggressive_strategy: Final Scores = (100, 100)
 </code></pre>
 <ul>
-<li><strong>cooperare fino a che è possibile, ma togliere la cooperazione se necessario</strong> è la strategia migliore nel gioco e soprattutto in ambienti non cooperativi perché permette di adattarsi alla persona che abbiamo di fronte.</li>
+<li><strong>cooperare fino a che è possibile, ma essere chiari nel togliere la cooperazione se necessario</strong> è la strategia migliore nel gioco e soprattutto in ambienti non cooperativi, poiché permette di adattarsi all’interlocutore. È essenziale capire che non c’è rancore né riferimento storico, ma solo la mossa precedente come riferimento. L’assertività nel dichiarare di aver notato il tradimento e le conseguenze che ne derivano è cruciale.</li>
 </ul>
 <pre><code class="language-bat">reactive_strategy vs aggressive_strategy:
 Turn 1: reactive_strategy = C, aggressive_strategy = D, Scores = (0, 5)
@@ -109,8 +111,8 @@ Turn 10: reactive_strategy = D, aggressive_strategy = D, Scores = (9, 14)
 reactive_strategy vs aggressive_strategy: Final Scores = (99, 104)
 </code></pre>
 <p>In poche parole essere assertivi vince.</p><h1 id="e-se-ci-sono-errori-di-interpretazione-come-nella-realtà">E se ci sono errori di interpretazione come nella realtà?</h1>
-<p>L’introduzione di “rumore”, ovvero errori nella percezione delle azioni dell’avversario, può complicare notevolmente le cose. Ad esempio, se un’azione di cooperazione viene erroneamente <em>vista o percepita come tradimento</em>, può scatenare una catena di ritorsioni che danneggia entrambi i giocatori. Per gestire tale incertezza, una versione più “generosa” di Tit for Tat—che perdona occasionalmente un <strong>apparente</strong> tradimento—potrebbe essere necessaria per mantenere la cooperazione.</p><p>Questo evita escalation di non cooperazione legati ad errori percettivi e soggettivi.</p><h1 id="la-seconda-conclusione-inutile">La seconda conclusione inutile</h1>
-<p>Il legame tra teoria dei giochi e realtà mondiale è inconfondibile. Durante la Guerra Fredda, per esempio, la corsa agli armamenti nucleari tra Stati Uniti e Unione Sovietica ha emulato un gigantesco Dilemma del Prigioniero, con potenziali conseguenze catastrofiche. La storia ha mostrato che anche tra rivali accaniti, la cooperazione può emergere e portare a decisioni di disarmo reciproco, suggerendo una lezione di speranza e pragmatismo.</p><p>Il Dilemma del Prigioniero, quindi, è una semplificazione delle sfide etiche e strategiche che affrontiamo quotidianamente. Sia che si tratti di negoziati internazionali o di decisioni personali su chi lavare i piatti a casa, la teoria dei giochi offre una finestra totalmente inutile su come le decisioni individuali si intrecciano per formare il tessuto complesso della società umana… ma anche meno.</p><h1 id="il-video-inutile">Il video inutile</h1>
+<p>L’introduzione di “rumore”, ovvero errori nella percezione delle azioni dell’avversario, può complicare notevolmente le cose. Ad esempio, se un’azione di cooperazione viene erroneamente <em>vista o percepita come tradimento</em>, può scatenare una catena di ritorsioni che danneggia entrambi i giocatori. Per gestire tale incertezza, una versione più “generosa” di Tit for Tat—che perdona occasionalmente un <strong>apparente</strong> tradimento—potrebbe essere necessaria per mantenere la cooperazione.</p><p>Questo evita escalation di tradimenti dovuti a errori percettivi e soggettivi.</p><p>Anche questo ci aiuta a capire che <strong>comunicare subito, nel momento in cui si percepisce che qualcosa non va, anche nell’ottica di comprendere i motivi dell’altro</strong>, può aiutare ad evitare rovinare il “gioco” ad entrambi.</p><h2 id="nella-storia-di-ieri-e-di-oggi">Nella storia di ieri e di oggi</h2>
+<p>Il legame tra teoria dei giochi e realtà mondiale è inconfondibile. Durante la Guerra Fredda, per esempio, la corsa agli armamenti nucleari tra Stati Uniti e Unione Sovietica ha emulato un gigantesco Dilemma del Prigioniero, con potenziali conseguenze catastrofiche. La storia ha mostrato che anche tra rivali accaniti, la cooperazione può emergere e portare a decisioni di disarmo reciproco, suggerendo una lezione di speranza e pragmatismo.</p><p>Il Dilemma del Prigioniero, quindi, è una semplificazione delle sfide etiche e strategiche che affrontiamo quotidianamente. Sia che si tratti di negoziati internazionali o di decisioni personali su chi lavare i piatti a casa, la teoria dei giochi offre una finestra totalmente inutile su come le decisioni individuali si intrecciano per formare il tessuto complesso della società umana… ma anche meno.</p><p>Il problema è che oggi stiamo vivendo l’insegnamento negativo del Dilemma del Prigioniero: si ricomincia con gli armamenti ad oltranza, tradimenti economici, guerre… e stiamo vedendo con i nostri occhi come questa strategia non faccia vincere nessuno.</p><h1 id="il-video-inutile">Il video inutile</h1>
 <p>Se hai una mezz’oretta da perdere questo è uno dei pochi video che con i sottotitoli tradotti automaticamente è pienamente comprensibile… A differenza di questo post è fatto molto bene 😉</p><div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/mScpHTIi-kM?si=1Y0QObWgwj6aFaI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
             ]]>
         </content>
